@@ -1,0 +1,10 @@
+
+.burger {
+    display: flex;
+    text-align: center;
+}
+
+.burger img{
+    display: flex;
+    justify-content: center;
+}
